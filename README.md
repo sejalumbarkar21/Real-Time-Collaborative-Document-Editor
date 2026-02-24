@@ -69,3 +69,4 @@ Multiple browser tabs are opened with the same room ID to verify simultaneous re
 RESULT / OUTCOME
 
 The final Real-Time Document Editor successfully allows multiple users to edit and view live updates simultaneously. The synchronization is smooth, lag-free, and persistent. The project demonstrates my understanding of real-time web applications, WebSocket communication, and state synchronization with Yjs — key concepts in modern collaborative web development.
+<img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/3e40bbc2-4ca5-4c7f-a601-fc500006fe56" />
